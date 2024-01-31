@@ -1,91 +1,53 @@
----
-layout: cv
-title: Isaac Newtons's CV
----
-# Isaac Newton
-Physicist, Mathematician, Cambridge professor.
+# Daniel Budeanu 
+Kellner, Hobbyinformatiker
 
 <div id="webaddress">
-<a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
-| <a href="http://en.wikipedia.org/wiki/Isaac_Newton">My wikipedia page</a>
+<a href="https://github.com/Big-Smarty">Github</a>
 </div>
 
+### Stärken
 
-## Currently
-
-Standing on the shoulders of giants
-
-### Specialized in
-
-Laws of motion, gravitation, minting coins, disliking [Robert Hooke](http://en.wikipedia.org/wiki/Robert_Hooke)
+- gute Rust Kenntnisse (ca. 1 Jahr Erfahrung)
+- gute C/++ Kenntnisse (ca. 3 Jahre Erfahrung)
+- viel Erfahrung mit Linux (seit ca. 4 Jahren)
+- passable git-Kenntnisse
 
 
-### Research interests
+### Interessen
 
-Cooling, power series, optics, alchemy, planetary motions, apples.
-
-
-## Education
-
-`1654-1660`
-__The King's School, Grantham.__
-
-`June 1661 - now`
-__Trinity College, Cambridge__
-
-- Sizar
-
-`1667 - death`
-__Trinity College, Cambridge__
-
-- Fellow
+- Low-Level Entwicklung im Allgemeinen
+- Betriebssystementwicklung
+- Game-Engine Entwicklung
 
 
+## Bildungsweg
 
-## Awards
+`2015-2021`
+__Leibniz-Gymnasium Rottweil__
 
-`2012`
-President, *Royal Society*, London, UK
-
-Associate, *French Academy of Science*, Paris, France
-
-
-
-## Publications
-
-<!-- A list is also available [online](http://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->
-
-### Journals
-
-`1669`
-Newton Sir I, De analysi per æquationes numero terminorum infinitas. 
-
-`1669`
-Lectiones opticæ.
-
-etc. etc. etc.
-
-### Patents
-
-`2012`
-Infinitesimal calculus for solutions to physics problems, [SMBC](http://www.techdirt.com/articles/20121011/09312820678/if-patents-had-been-around-time-newton.shtml) patent 001
+`2021-heute`
+__EHG Rottweil__
 
 
-## Occupation
+## persönliche Projekte
 
-`1600`
-__Royal Mint__, London
-
-- Warden
-- Minted coins
-
-`1600`
-__Lucasian professor of Mathematics__, Cambridge University
+- <a href="https://github.com/Big-Smarty/image2cnc">CNC-Generationstool für Bilder</a>
+- <a href="https://github.com/Big-Smarty/BSOS">eigenes Betriebssystem (noch in den Kinderschuhen, lose basierend auf einem Guide)</a>
+- <a href="https://github.com/Big-Smarty/vk-thin-wrapper">Experimentelle Nutzung des C++ Template Systems für C++-Bindings basierend auf den von Khronos veröffentlichten C-Bindings</a>
+- <a href="https://github.com/Big-Smarty/bsdb">simple objektorientierte Datenbank in Rust</a>
+- <a href="https://github.com/Big-Smarty/bsm">Anfänge einer eigenen Mathematik-Bibliothek (ähnlich wie glm) für C++, bisher nur Vektoren- und Matrizenunterstützung</a>
 
 
+## Beschäftigung
 
-<!-- ### Footer
+`2021-heute`
+Vollzeitschüler am EHG Rottweil
 
-Last updated: May 2013 -->
+
+`2022-heute`
+Kellner in der Krone Villingendorf
+
+`2023-heute`
+Kellner im Kami Kitchen Rottweil
 
 
